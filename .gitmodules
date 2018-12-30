@@ -1,0 +1,3 @@
+[submodule "themes/now-ui"]
+	path = themes/now-ui
+	url = git@github.com:simonwhitaker/hugo-now-ui.git
